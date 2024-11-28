@@ -1,4 +1,4 @@
-# WELCOME! Repository for c++ projects from previous classes & work :)
+# WELCOME! Repository for c++ projects (classes & work) :)
 ## 💡 Projects:
 1. 🐲 **Dungeon Game**
 - An *adventure game* where the protagonist moves through 4 levels of a dungeon, slashing dragons, godblins, and snakewomen to level up and get mysterious powers.
